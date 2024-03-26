@@ -1,3 +1,12 @@
+<h1><i>SHOPPING APP (PATIKA STORE)</i></h1>
+<p>In this project, users can input text into the search bar, and the products inside the card are fetched from a JSON file.</p>
+<div style="display-flex">
+   <img src="SS1.png">
+   <img src="SS2.png">
+   <img src="SS3.png">
+   <img src="SS4.png">
+</div>
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
